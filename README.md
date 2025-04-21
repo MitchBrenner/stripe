@@ -13,10 +13,14 @@ To test the payment flow, use the following Stripe test card:
 
 This card will simulate a successful payment in test mode.
 
-The tech stack includes:
+## 🧑‍💻 Tech Stack
+- 🌐 **Next.js** – for building the app
+- 💳 **Stripe** – for secure payment processing
+- ⚛️ **React** – to make everything come to life
 
-- [Next.js](https://nextjs.org/)
-- [Stripe](https://stripe.com/)
-- [React](https://reactjs.org/)
 
-For more information, visit the [Stripe Documentation](https://stripe.com/docs) and [Next.js Documentation](https://nextjs.org/docs).
+## 📚 Useful Links
+- 📜 [Stripe Documentation](https://stripe.com/docs)
+- 📖 [Next.js Documentation](https://nextjs.org/docs)
+- 🛠 [Stripe Testing Guide](https://stripe.com/docs/testing)
+
